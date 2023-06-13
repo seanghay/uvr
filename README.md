@@ -4,6 +4,12 @@
 
 ⚠️ This project currently works on CUDA.
 
+## Install dependencies
+
+```shell
+pip install -r requirements.txt
+```
+
 ## Download Model Weights
 
 ```shell
