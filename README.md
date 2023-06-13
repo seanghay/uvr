@@ -1,4 +1,4 @@
-# Universal Vocal Remover CLI
+# Ultimate Vocal Remover CLI
 
 ⚠️ Before running this project, make sure you have installed `torch`, `torchaudio`. Please check out the PyTorch documentation.
 
