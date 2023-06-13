@@ -1,5 +1,9 @@
 # Universal Vocal Remover CLI
 
+⚠️ Before running this project, make sure you have installed `torch`, `torchaudio`. Please check out the PyTorch documentation.
+
+⚠️ This project currently works on CUDA.
+
 ## Download Model Weights
 
 ```shell
