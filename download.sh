@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-if [ ! -f VR-DeEchoNormal.pth ]; then
-  wget -O VR-DeEchoNormal.pth https://huggingface.co/lj1995/VoiceConversionWebUI/resolve/main/uvr5_weights/VR-DeEchoNormal.pth
+if [ ! -f models.zip ]; then
+  wget -O models.zip https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.3.0/models.zip
 fi
