@@ -1,5 +1,7 @@
 # Ultimate Vocal Remover CLI
 
+[[Colab]](https://colab.research.google.com/drive/1VDncdndceKanFrs2LU-LM4Odv8tnPkzD?usp=sharing)
+
 ⚠️ Before running this project, make sure you have installed `torch`, `torchaudio`. Please check out the PyTorch documentation.
 
 ⚠️ This project currently works on CUDA.
