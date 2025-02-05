@@ -1,4 +1,4 @@
-📦 Check out my new library called [vocal](https://github.com/seanghay/vocal) for **Vocal/Speech Separation** built with simplicity in mind.
+📦 Check out my new library called [Vocal](https://github.com/seanghay/vocal) for **Vocal/Speech Separation** built with simplicity in mind.
 
 ---
 
