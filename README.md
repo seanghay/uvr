@@ -1,3 +1,7 @@
+📦 Check out my new library called [vocal](https://github.com/seanghay/vocal) for **Vocal/Speech Separation** built with simplicity in mind.
+
+---
+
 # Ultimate Vocal Remover CLI
 
 [[Colab]](https://colab.research.google.com/drive/1VDncdndceKanFrs2LU-LM4Odv8tnPkzD?usp=sharing)
